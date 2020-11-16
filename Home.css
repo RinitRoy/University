@@ -1,0 +1,1097 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-refresh-for-changes: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2113px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-refresh-for-changes: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1_Class {
+	fill: rgba(0,42,92,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+.ENGINEERING_Class {
+	left: 95px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(252,246,246,1);
+}
+.right-arrow_Class {
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 339px;
+	top: 18px;
+	overflow: visible;
+}
+.Rectangle_2_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	filter: drop-shadow(30px 50px 30px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1744px;
+	height: 2152px;
+	left: 144px;
+	top: 56px;
+}
+.Engineering_Class {
+	left: 436px;
+	top: 104px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,42,92,1);
+}
+.Rectangle_3_Class {
+	fill: rgba(243,243,243,0.941);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 41px;
+	left: 1413px;
+	top: 113px;
+}
+.Rectangle_4_Class {
+	fill: rgba(243,243,243,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 41px;
+	left: 1657px;
+	top: 113px;
+}
+.Search_Class {
+	left: 1413px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(126,130,133,1);
+}
+.search_Class {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 1664px;
+	top: 120px;
+	overflow: visible;
+}
+.Faculty_of_Applied_Science__En_Class {
+	left: 194px;
+	top: 223px;
+	position: absolute;
+	overflow: visible;
+	width: 939px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,42,92,1);
+}
+.Rectangle_5_Class {
+	fill: rgba(238,238,238,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1654px;
+	height: 47px;
+	left: 144px;
+	top: 287px;
+}
+.About_Class {
+	left: 151px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Departments_Class {
+	left: 222px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Research__Partnership_Class {
+	left: 350px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Future_Students_Class {
+	left: 579px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Current_Students_Class {
+	left: 747px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Alumni_Class {
+	left: 871px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Faculty__Staff_Class {
+	left: 991px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.News_Class {
+	left: 1106px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.Events_Class {
+	left: 1176px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,42,92,1);
+}
+.facebook_ch_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1534px;
+	top: 296px;
+	overflow: visible;
+}
+.youtube-logotype_ci_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1742px;
+	top: 296px;
+	overflow: visible;
+}
+.instagram_cj_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1673px;
+	top: 296px;
+	overflow: visible;
+}
+.twitter_ck_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1603px;
+	top: 296px;
+	overflow: visible;
+}
+.vadim-sherbakov-d6ebY-faOO0-un_Class {
+	opacity: 0.49;
+	position: absolute;
+	width: 1654px;
+	height: 486.5px;
+	left: 144px;
+	top: 334px;
+	overflow: visible;
+}
+.Fall_2020_at_the_Faculty_of_Ap_Class {
+	left: 187px;
+	top: 457px;
+	position: absolute;
+	overflow: visible;
+	width: 889px;
+	height: 210px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,42,92,1);
+}
+.Rectangle_6_Class {
+	fill: rgba(111,157,236,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	height: 63px;
+	left: 241px;
+	top: 614px;
+}
+.Learn_More_Class {
+	left: 259px;
+	top: 627px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+._Class {
+	left: 433px;
+	top: 635px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_7_Class {
+	fill: rgba(43,45,46,0.769);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1654px;
+	height: 79px;
+	left: 144px;
+	top: 742px;
+}
+.UCheck_Students_staff_and_facu_Class {
+	left: 153px;
+	top: 758px;
+	position: absolute;
+	overflow: visible;
+	width: 1637px;
+	height: 33px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(232,236,241,1);
+}
+.Rectangle_8_Class {
+	fill: rgba(180,180,180,0.278);
+}
+.Rectangle_8 {
+	filter: drop-shadow(15px 3px 20px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1714px;
+	height: 326px;
+	left: 144px;
+	top: 821px;
+}
+.information-button_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 187px;
+	top: 866px;
+	overflow: visible;
+}
+.information-button_be_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 513px;
+	top: 866px;
+	overflow: visible;
+}
+.information-button_bf_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 840px;
+	top: 866px;
+	overflow: visible;
+}
+.information-button_bg_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1166px;
+	top: 866px;
+	overflow: visible;
+}
+.information-button_bh_Class {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1493px;
+	top: 866px;
+	overflow: visible;
+}
+.Undergraduates_Students_COVID-_Class {
+	left: 250px;
+	top: 866px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 193px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Graduates_Students_COVID-19_FA_Class {
+	left: 578px;
+	top: 866px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 193px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Business_Continuity_Planning_F_Class {
+	left: 906px;
+	top: 866px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 193px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Research_Continuity_Planning_F_Class {
+	left: 1234px;
+	top: 864px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	height: 193px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Course_Continuity_in_Response__Class {
+	left: 1553px;
+	top: 864px;
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 193px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Contact__Us_Class {
+	left: 1664px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Contact_Us;
+	cursor: pointer;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+._bo_Class {
+	left: 1653px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+.Give_Now_Class {
+	left: 1535px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+.Directory_Class {
+	left: 1421px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+._br_Class {
+	left: 1536px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+._bs_Class {
+	left: 1418px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+.ACRON_Class {
+	left: 1309px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+._bu_Class {
+	left: 1313px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+.Quercus_Class {
+	left: 1201px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,42,92,1);
+}
+.Rectangle_9_Class {
+	fill: rgba(187,233,232,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1654px;
+	height: 511px;
+	left: 144px;
+	top: 1105px;
+}
+.Engineering_Virtual_Background_Class {
+	left: 187px;
+	top: 1130px;
+	position: absolute;
+	overflow: visible;
+	width: 429px;
+	height: 108px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,42,92,1);
+}
+.Download_your_favourite_virtua_Class {
+	left: 182px;
+	top: 1238px;
+	position: absolute;
+	overflow: visible;
+	width: 418px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,42,92,1);
+}
+.Group_1_Class {
+	position: absolute;
+	width: 397px;
+	height: 86px;
+	left: 187px;
+	top: 1414px;
+	overflow: visible;
+}
+.Rectangle_10_Class {
+	fill: rgba(5,122,212,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+}
+.cloud-computing_Class {
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	left: 18px;
+	top: 22px;
+	overflow: visible;
+}
+.View_all__downloads__Class {
+	left: 79px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 298px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(226,230,236,1);
+}
+.Rectangle_11_Class {
+	fill: rgba(0,35,77,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 1654px;
+	height: 58px;
+	left: 144px;
+	top: 2055px;
+}
+.Rectangle_12_Class {
+	fill: rgba(151,174,229,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1654px;
+	height: 287px;
+	left: 144px;
+	top: 1768px;
+}
+.Group_2_Class {
+	position: absolute;
+	width: 124px;
+	height: 160px;
+	left: 639px;
+	top: 1822px;
+	overflow: visible;
+}
+.Home_b_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.About_b_Class {
+	left: 0px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Give_Now_b_Class {
+	left: 0px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Directory_b_Class {
+	left: 0px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Contact_Us_Class {
+	left: 0px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Group_3_Class {
+	position: absolute;
+	width: 201px;
+	height: 160px;
+	left: 871px;
+	top: 1822px;
+	overflow: visible;
+}
+.Future_Students_cc_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Registrars_Office_Class {
+	left: 0px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Graduate_Students_Class {
+	left: 0px;
+	top: 68px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Faculty__Staff_Hub_Class {
+	left: 0px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Alumni_cg_Class {
+	left: 0px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.facebook_ch_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1534px;
+	top: 296px;
+	overflow: visible;
+}
+.youtube-logotype_ci_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1742px;
+	top: 296px;
+	overflow: visible;
+}
+.instagram_cj_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1673px;
+	top: 296px;
+	overflow: visible;
+}
+.twitter_ck_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1603px;
+	top: 296px;
+	overflow: visible;
+}
+.facebook_cl_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1504px;
+	top: 1809px;
+	overflow: visible;
+}
+.youtube-logotype_cm_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1712px;
+	top: 1809px;
+	overflow: visible;
+}
+.instagram_cn_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1643px;
+	top: 1809px;
+	overflow: visible;
+}
+.twitter_co_Class {
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	left: 1573px;
+	top: 1809px;
+	overflow: visible;
+}
+.University_of_Engineering_Some_Class {
+	left: 1413px;
+	top: 1868px;
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	height: 125px;
+	text-align: right;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(14,14,15,1);
+}
+.Traditional_Land_Acknowledgeme_Class {
+	left: 160px;
+	top: 1616px;
+	position: absolute;
+	overflow: visible;
+	width: 1377px;
+	height: 51px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.A_Land_Acknowledgement_is_a_fo_Class {
+	left: 160px;
+	top: 1673px;
+	position: absolute;
+	overflow: visible;
+	width: 1622px;
+	height: 83px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+.logo_Class {
+	position: absolute;
+	width: 160.5px;
+	height: 159px;
+	left: 231px;
+	top: 55px;
+	overflow: visible;
+}
+.fogler-zoom-background4_Class {
+	position: absolute;
+	width: 393px;
+	height: 221px;
+	left: 753px;
+	top: 1128px;
+	overflow: visible;
+}
+.download_Class {
+	position: absolute;
+	width: 389px;
+	height: 218px;
+	left: 1299px;
+	top: 1377px;
+	overflow: visible;
+}
+.fogler-zoom-background5_Class {
+	position: absolute;
+	width: 389px;
+	height: 219px;
+	left: 1299px;
+	top: 1128px;
+	overflow: visible;
+}
+.ID20191023_FallBeauty_KSD_0096_Class {
+	position: absolute;
+	width: 393px;
+	height: 221px;
+	left: 753px;
+	top: 1377px;
+	overflow: visible;
+}
+.logo_cx_Class {
+	position: absolute;
+	width: 232.5px;
+	height: 231px;
+	left: 225px;
+	top: 1786px;
+	overflow: visible;
+}
